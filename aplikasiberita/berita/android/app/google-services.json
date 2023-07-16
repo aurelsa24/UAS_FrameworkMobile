@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227741412021",
+    "project_id": "fir-app-bd221",
+    "storage_bucket": "fir-app-bd221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227741412021:android:fa3a45a0159ddd8a95ecfc",
+        "android_client_info": {
+          "package_name": "com.example.berita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227741412021-0qco57p3of7mkm44vpugmlv1gdrcfn92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jHGITS85IilLkMcvk4uuux_AWcKfdSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227741412021-0qco57p3of7mkm44vpugmlv1gdrcfn92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
